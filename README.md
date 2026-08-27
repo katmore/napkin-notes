@@ -11,4 +11,5 @@ Things I notice and think through with genai assistance of various sorts.
 -----
 
 ## Legal
-(c) D.B. 2026 - [LICENSE](./LICENSE) - CC BY-SA 4.0: Attribution-ShareAlike 4.0
+* Created with assistance of AI - (C) 2026 D.B. et. al - Released into Public Domain
+* [LICENSE](./LICENSE) - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
