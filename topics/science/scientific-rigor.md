@@ -37,7 +37,7 @@ The position should be more procedural:
 
 One study—even a very good one—establishes a result worth pursuing. A second study is not some magical epistemic switch either. Confidence comes from an accumulating research program: replication, independent samples, better-controlled experiments, different measurement approaches, mechanisms, and eventually convergence among evidence that was capable of failing in different ways.
 
-That's especially normal in fields such as public health.
+That is especially normal in fields such as public health.
 
 ### 4. Don't ruin a clean experiment because you're curious
 
@@ -47,9 +47,9 @@ If the question is whether mosquitoes discriminate between blood types, then a h
 
 When the model suggested adding pairwise-choice trials to the same experiment, an expert correctly objected:
 
-> That's another study.
+> That is another study.
 
-You can collect data for several carefully specified studies simultaneously when practical. But that's different from muddling their experimental questions together.
+You can collect data for several carefully specified studies simultaneously when practical. But that is different from muddling their experimental questions together.
 
 **Scientific curiosity generates the next experiment; it should not casually mutate the current one.**
 
@@ -138,7 +138,7 @@ Structure? Development? Genes? Mechanics? Ecological function? Evolutionary orig
 
 Changing that scope can transform something from convergence into non-convergence—or vice versa—without changing a single empirical observation.
 
-That's not semantic trickery. It's part of defining the scientific object under investigation.
+That is not semantic trickery. It's part of defining the scientific object under investigation.
 
 ### 11. Generative AI is currently much better at scientific knowledge than scientific practice
 
@@ -152,7 +152,7 @@ It has repeatedly been noticed that a model can be very good at:
 
 But a model can slip into something more like **educated scientific improvisation** when designing actual research.
 
-In particular, models are tempted to add variables, comparisons, analyses, and "interesting" side questions because each sounds individually useful. That's often exactly the opposite of disciplined experimental design.
+In particular, models are tempted to add variables, comparisons, analyses, and "interesting" side questions because each sounds individually useful. That is often exactly the opposite of disciplined experimental design.
 
 A model can know every paragraph of a graduate research-methods textbook without having internalized the procedural habits that graduate training develops.
 
@@ -180,4 +180,4 @@ Observation, exploration, hypothesis generation, discrimination between hypothes
 
 And importantly, this is not a doctrine of endless hedging. The model had to be repeatedly pushed me *away* from generic "we cannot really know" caveats. The point is to make the strongest inference the design actually earns—and then stop there.
 
-That's the baseline that will be useful for scientific discussions.
+That is a baseline that will be useful for scientific discussions.
